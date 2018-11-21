@@ -1,9 +1,9 @@
 ---
 layout: post
-title: You're up and running!
+title: Rendering OpenAi Gym in Google Colaboratory.
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+Early this year (2018) Google introduced GPUs to their machine learning tool "Colaboratory". 
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 

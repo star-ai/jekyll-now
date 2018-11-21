@@ -4,12 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
 
-### More Information
+###  Information
 
-A place to include any other types of information that you'd like to include about yourself.
+StarAi is a team of Developers, Machine Learning Engineers & Researchers based in Australia.
 
-### Contact me
+### Contact
 
-[email@domain.com](mailto:email@domain.com)
+[contact@starai.io](mailto: contact@starai.io)
