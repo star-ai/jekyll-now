@@ -115,12 +115,12 @@ show_video()
 
 ## Test Colaboratory Notebook  
 
-This entire method is available in our [test Rendering Colaboratory Notebook here](), which renders a completely random agent in the **Pacman OpenAi Gym Environment.**
+This entire method is available in our [test Rendering Colaboratory Notebook here](https://colab.research.google.com/drive/1flu31ulJlgiRL1dnN2ir8wGh9p7Zij2t), which renders a completely random agent in the **Pacman OpenAi Gym Environment.**
 
 
 One final note on this method is since Google Virtual Machine's that run Colaboratory do not have physical screens or  actual rendering hardware -  we used xvfb to create a "virtual screen" on Colaboratory and then used IPythonDisplay to capture the rendered frames and save them as a .mp4 video to be shown in browser. This means that unfortunately you have to wait for your algorithm to finish it's training sequence before you can see how well it performed on the environment in question. This is usually no dramas however, if you were running Gym locally you would have to do this anyways.
 
 
-That's it. If you decide to use this work, please referance it!
+That's it. If you decide to use this work, please referance it. Until next time!
 
 
